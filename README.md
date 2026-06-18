@@ -51,4 +51,8 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)&nbsp;
-
+</br>
+</br>
+</br>
+<img alt="My Stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=JohandryViles&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
+<img alt="My Langs" align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohandryViles&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact"/>
