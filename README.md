@@ -54,5 +54,5 @@
 </br>
 </br>
 </br>
-<img alt="My Stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=JohandryViles&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
-<img alt="My Langs" align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohandryViles&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact"/>
+<img alt="My Stats" align="left" width="48%" src="https://github-readme-stats.shion.dev/api?username=JohandryViles&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false"/>
+<img alt="My Langs" align="left" width="36%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JohandryViles&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
