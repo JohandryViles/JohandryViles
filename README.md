@@ -68,7 +68,7 @@ I am Johandry, a Full Stack Developer focused on building robust software that w
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Version Controll & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
