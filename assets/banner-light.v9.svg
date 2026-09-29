@@ -1,5 +1,5 @@
-﻿<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1600" height="420" rx="22" fill="#E9F2FB"/>
+﻿<svg width="1600" height="504" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="504" rx="22" fill="#E9F2FB"/>
   <rect x="20" y="18" width="1560" height="384" rx="18" fill="#F8FBFF" stroke="#B8CAE0"/>
   <text x="800" y="54" text-anchor="middle" fill="#5B7799" font-size="20" font-family="JetBrains Mono, Consolas, monospace">profile.sh --live</text>
   <circle cx="52" cy="50" r="7" fill="#FF5F56"/>
@@ -77,3 +77,4 @@
   <text x="662" y="371" fill="#059669" font-size="14" font-family="JetBrains Mono, Consolas, monospace">ALL SYSTEMS NOMINAL</text>
   <text x="1530" y="371" text-anchor="end" fill="#5B7799" font-size="14" font-family="JetBrains Mono, Consolas, monospace">UTC-4</text>
 </svg>
+
