@@ -30,7 +30,7 @@
 
 ## This is me :)
 
-I am Johandry, a Full Stack Developer focused on building robust software that works in real-world production.
+I am Johandry <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> , a Full Stack Developer focused on building robust software that works in real-world production.
 
 - I build end-to-end solutions across frontend, backend, cloud, and data.
 - I prioritize clean architecture, readability, and maintainability.
