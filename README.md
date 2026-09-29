@@ -1,9 +1,9 @@
-<div align="center">
+﻿<div align="center">
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
-   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-   <img width="100%" src="assets/banner-dark.v9.svg" alt="profile.sh --live">
+   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v10.svg">
+   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v10.svg">
+   <img width="100%" src="assets/banner-dark.v10.svg" alt="profile.sh --live">
 </picture>
 
 <br>
@@ -109,3 +109,4 @@ I am Johandry, a Full Stack Developer focused on building robust software that w
 <div align="center">
    <sub>Built by Johandry Viles | Keep building, keep learning.</sub>
 </div>
+
