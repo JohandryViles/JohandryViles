@@ -1,64 +1,111 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
+   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
+   <img width="100%" src="assets/banner-dark.v9.svg" alt="profile.sh --live">
+</picture>
+
+<br>
+
+<a href="https://github.com/JohandryViles">
+   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+scalable+web+and+cloud+solutions;From+idea+to+production+with+clean+architecture;Code%2C+ship%2C+improve%2C+repeat" alt="typing banner">
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/johandry-viles-0595322b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+&nbsp;&nbsp;
+<a href="mailto:johalop858@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/JohandryViles"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=JohandryViles&style=flat&color=06b6d4&label=profile+views" alt="profile views">
+
 </div>
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 
-<h1 align="center">Hi 👋, I'm Johandry Viles</h1>
-<h3 align="center"> Full Stack Developer | Software Engineer</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/johandry-viles-0595322b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href = "mailto:johalop858@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</table>
-</p>
-</p>
+---
 
-## 🛠 &nbsp;Tech Stack
+## This is me :)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+I am Johandry, a Full Stack Developer focused on building robust software that works in real-world production.
 
+- I build end-to-end solutions across frontend, backend, cloud, and data.
+- I prioritize clean architecture, readability, and maintainability.
+- I like delivering features fast without compromising reliability.
+- I am always learning and improving through real project execution.
 
+---
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+## my perfect stack
 
-
-### 🗃 &nbsp;Databases
-![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
-
-
-### 🧰 &nbsp;Version Controll & Tools 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)&nbsp;
-</br>
-</br>
-</br>
-<img alt="My Stats" align="left" width="48%" src="https://github-readme-stats.shion.dev/api?username=JohandryViles&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false"/>
-<img alt="My Langs" align="left" width="36%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JohandryViles&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,kotlin,postgres,mysql,docker,linux,aws,azure,gcp,git,github,vscode,figma&perline=7" alt="tech stack">
+
+</div>
+
+---
+
+## signals
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+   <img src="assets/radar-dark.svg" width="360" alt="skill radar chart">
+</picture>
+</td>
+<td width="50%" align="center" valign="middle">
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+   <img src="assets/radar-langs-dark.svg" width="360" alt="language radar chart">
+</picture>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## databases and tools
+
+<div align="center">
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## Numbers matter? ohhh yes.
+
+<div align="center">
+
+<img alt="GitHub stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=JohandryViles&show_icons=true&theme=transparent&hide_border=true&title_color=06b6d4&icon_color=10b981&text_color=94a3b8">
+<img alt="Top languages" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohandryViles&layout=compact&theme=transparent&hide_border=true&title_color=06b6d4&text_color=94a3b8">
+
+<br>
+
+<img alt="GitHub streak" width="84%" src="https://streak-stats.demolab.com?user=JohandryViles&theme=transparent&hide_border=true&ring=10b981&fire=06b6d4&currStreakLabel=06b6d4">
+
+</div>
+
+---
+
+<div align="center">
+   <sub>Built by Johandry Viles | Keep building, keep learning.</sub>
 </div>
