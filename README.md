@@ -6,84 +6,88 @@
    <img width="100%" src="assets/banner-dark.v12.svg" alt="profile.sh --live">
 </picture>
 
-<br>
-
 <a href="https://github.com/JohandryViles">
-   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+scalable+web+and+cloud+solutions;From+idea+to+production+with+clean+architecture;Code%2C+ship%2C+improve%2C+repeat" alt="typing banner">
+   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+full+stack+developer;%24+git+commit+-m+%22taking+this+seriously+now%22;%24+git+commit+-m+%22ahora+va+en+serio%22;%24+uptime+%E2%86%92+learning%2C+shipping%2C+iterating" alt="terminal">
 </a>
 
-<br>
+<a href="https://www.linkedin.com/in/johandry-viles-0595322b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:johalop858@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=67E8F9" alt="Email"></a>
+<img src="https://komarev.com/ghpvc/?username=JohandryViles&style=flat-square&color=06b6d4&label=views" alt="profile views">
 
-<a href="https://www.linkedin.com/in/johandry-viles-0595322b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-&nbsp;&nbsp;
-<a href="mailto:johalop858@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=67E8F9" alt="Email"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/JohandryViles"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub"></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=JohandryViles&style=flat&color=06b6d4&label=profile+views" alt="profile views">
+<sub><b>EN</b> · <b>ES</b> — every section, both languages / cada sección, en ambos idiomas</sub>
 
 </div>
 
----
+<br>
 
-## This is me :)
+```yaml
+# ~/.config/johandry.yaml
+name:        Johandry Viles
+role:        Full Stack Developer        # Desarrollador Full Stack
+focus:       [web platforms, cloud, data, mobile]
+languages:   [es-EC, en]
+principles:
+  - readable code over clever code       # código legible > código ingenioso
+  - ship small, ship often, measure      # entregas pequeñas, frecuentes, medibles
+  - if it isn't tested, it's a rumor     # si no tiene tests, es un rumor
+status:      compiling ideas → shipping code  # compilando ideas → entregando código
+coffee:      required                    # dependencia no negociable
+```
 
-I am Johandry <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> , a Full Stack Developer focused on building robust software that works in real-world production.
+## `$ cat README --about`
 
-- I build end-to-end solutions across frontend, backend, cloud, and data.
-- I prioritize clean architecture, readability, and maintainability.
-- I like delivering features fast without compromising reliability.
-- I am always learning and improving through real project execution.
+**EN** — I build software end to end: interface, API, database and the infrastructure it runs on.
+I care less about how many frameworks I can list and more about whether the thing still works
+on a Friday at 6 p.m. after a deploy. This profile used to be a wall of badges; now it's a statement
+of intent: fewer toys, more engineering.
 
----
+**ES** — Construyo software de punta a punta: interfaz, API, base de datos y la infraestructura donde corre.
+Me importa menos cuántos frameworks puedo listar y más que todo siga funcionando un viernes
+a las 6 p.m. después de un deploy. Antes este perfil era un muro de badges; ahora es una declaración
+de intenciones: menos juguetes, más ingeniería.
 
-## my perfect stack
+## `$ ls ./stack`
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+| Layer · Capa | Tools · Herramientas |
+| :--- | :--- |
+| **Languages · Lenguajes** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Data · Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Cloud & Ops** | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Workflow · Flujo** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<sub>EN: Listed means used in real work, not "watched a 10-minute tutorial once". · ES: Si está aquí, lo he usado en trabajo real, no "vi un tutorial de 10 minutos una vez".</sub>
 
+## `$ git log --roadmap`
 
-### 🗃 &nbsp;Databases
-![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+```diff
++ Deeper backend work: API design, auth, caching, observability
++   Backend a fondo: diseño de APIs, auth, caché, observabilidad
++ Testing as a habit, not an afterthought (unit → integration → e2e)
++   Testing como hábito, no como castigo (unit → integration → e2e)
++ CI/CD pipelines with GitHub Actions and containerized deploys
++   Pipelines CI/CD con GitHub Actions y despliegues en contenedores
+- Starting side projects and abandoning them at 80%
+-   Empezar proyectos personales y abandonarlos al 80%
+```
 
+## `$ ./engineering-principles.sh`
 
-### 🧰 &nbsp;Version Controll & Tools
+1. **Make it work, make it right, make it fast.** In that order. Always.<br><sub>Que funcione, que esté bien hecho, que sea rápido. En ese orden. Siempre.</sub>
+2. **Names are documentation.** If a function needs a comment to explain what it does, it needs a better name.<br><sub>Los nombres son documentación: si una función necesita un comentario para explicar qué hace, necesita otro nombre.</sub>
+3. **Small PRs.** Nobody reviews 2,000 lines carefully; they just approve them.<br><sub>PRs pequeños: nadie revisa 2.000 líneas con cuidado, solo las aprueba.</sub>
+4. **Production is the only environment that tells the truth.** Plan accordingly.<br><sub>Producción es el único entorno que dice la verdad. Planifica en consecuencia.</sub>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)&nbsp;
-</br>
-</br>
-</br>
-<img alt="My Stats" align="left" width="48%" src="https://github-readme-stats.shion.dev/api?username=JohandryViles&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false"/>
-<img alt="My Langs" align="left" width="36%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JohandryViles&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+## `$ gh stats`
+
+<p align="center">
+   <img alt="GitHub stats" width="57%" src="https://github-readme-stats.shion.dev/api?username=JohandryViles&theme=github_dark&hide_border=true&show_icons=true&count_private=false"/>
+   <img alt="Top languages" width="41%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JohandryViles&theme=github_dark&hide_border=true&layout=compact"/>
+</p>
+
+<br>
+
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+<sub><code>exit 0</code> &nbsp;·&nbsp; process finished without errors (this time) · proceso terminado sin errores (esta vez)</sub>
 </div>
-
